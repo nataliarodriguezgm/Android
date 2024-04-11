@@ -1,0 +1,7 @@
+echo "# Android" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M NataliaAndroid
+git remote add origin https://github.com/nataliarodriguezgm/Android.git
+git push -u origin NataliaAndroid
